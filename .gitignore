@@ -1,0 +1,13 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Rapports générés
+*.report.json
+
+# OS / éditeurs
+.DS_Store
+.vscode/
+.idea/

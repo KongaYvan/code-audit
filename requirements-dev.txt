@@ -1,0 +1,4 @@
+# Le cœur de code-audit n'a AUCUNE dépendance (bibliothèque standard seule).
+# Ces paquets servent uniquement au développement.
+pytest>=8.0
+bandit>=1.7   # outil de référence, pour la comparaison (phase 5)
